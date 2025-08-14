@@ -1,10 +1,11 @@
 
-  <h1 align="center">Hi 👋, I'm Mariela Gonzalez!</h1>
+<h1 align="center">Hi 👋, I'm Mariela Gonzalez!</h1>
 <h3 align="center"> 💻 Junior Full Stack Web Developer & Designer 🇲🇽</h3>
 
-I'm passionate about building functional, scalable, and user-friendly applications. Focused on **JavaScript, React, Next.js, Node.js**, and currently expanding my skills in **TypeScript** and **Python**.
 
-I bring over 5 years of professional experience in **project management, teamwork, and problem-solving** from international business environments, now applied to the tech world.
+Passionate about building **responsive**, **user-friendly**, and **visually appealing** web applications. Combines **creativity** 🎨 with **technical skills** to deliver **modern**, **efficient**, and **accessible** digital experiences. Focused on **JavaScript, React, Next.js, Node.js**, and currently expanding my skills in **TypeScript** and **Python**.
+
+I bring over 5 years of professional experience in **project management, teamwork,** and **problem-solving** from business environments, now applied to the tech world.
 
 
 - 🔭 I’m currently developing [ClassAid](classaidfrontend.vercel.app)
@@ -15,10 +16,10 @@ I bring over 5 years of professional experience in **project management, teamwor
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="mailto:mm.gonnar@gmial.com" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="mmgonnar" height="30" width="30" style="padding-right: 10px;" /></a>
-<a href="https://linkedin.com/in/mmgonnar" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="mmgonnar" height="30" width="30" style="padding-right: 10px;" /></a>
-<a href="https://discord.gg/mmgonnar" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/discord/discord-tile.svg" alt="mmgonnar" height="30" width="30" style="padding-right: 10px;" /></a>
-<a href="https://x.com/mmgonnar" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/x/x-icon.svg" alt="mm.gonnar@gmail.com"  height="30" width="30" style="padding-right: 10px;" /></a>
+<a href="mailto:mm.gonnar@gmial.com" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="mmgonnar" height="30" width="30" style="padding-right: 15px;" /></a>
+<a href="https://linkedin.com/in/mmgonnar" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="mmgonnar" height="30" width="30" style="padding-right: 15px;" /></a>
+<a href="https://discord.gg/mmgonnar" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/discord/discord-tile.svg" alt="mmgonnar" height="30" width="30" style="padding-right: 15px;" /></a>
+<a href="https://x.com/mmgonnar" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/x/x-icon.svg" alt="mm.gonnar@gmail.com"  height="30" width="30" style="padding-right: 15px;" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
