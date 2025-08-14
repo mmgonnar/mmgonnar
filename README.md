@@ -8,18 +8,18 @@ Passionate about building **responsive**, **user-friendly**, and **visually appe
 I bring over 5 years of professional experience in **project management, teamwork,** and **problem-solving** from business environments, now applied to the tech world.
 
 
-- 🔭 I’m currently developing [ClassAid](classaidfrontend.vercel.app)
+- 🔭 I’m currently developing  <a href="https://classaidfrontend-git-feature-classes-mariela-gonzalezs-projects.vercel.app/" target="blank">ClassAid</a>
 
-- 🌱 I’m currently learning **TypeScript & Python**
+- 🌱 I’m currently learning **TypeScript** & **Python**
 
 - 💬 Ask me about **Ux/Ui**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="mailto:mm.gonnar@gmial.com" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="mmgonnar" height="30" width="30" style="padding-right: 15px;" /></a>
-<a href="https://linkedin.com/in/mmgonnar" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="mmgonnar" height="30" width="30" style="padding-right: 15px;" /></a>
-<a href="https://discord.gg/mmgonnar" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/discord/discord-tile.svg" alt="mmgonnar" height="30" width="30" style="padding-right: 15px;" /></a>
-<a href="https://x.com/mmgonnar" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/x/x-icon.svg" alt="mm.gonnar@gmail.com"  height="30" width="30" style="padding-right: 15px;" /></a>
+<a href="mailto:mm.gonnar@gmial.com" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="mmgonnar" height="30" width="30" style="padding-right: 20px;" /></a>
+<a href="https://linkedin.com/in/mmgonnar" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="mmgonnar" height="30" width="30" style="padding-right: 20px;" /></a>
+<a href="https://discord.gg/mmgonnar" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/discord/discord-tile.svg" alt="mmgonnar" height="30" width="30" style="padding-right: 20px;" /></a>
+<a href="https://x.com/mmgonnar" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/x/x-icon.svg" alt="mm.gonnar@gmail.com"  height="30" width="30" style="padding-right: 20px;" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
