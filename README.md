@@ -16,20 +16,6 @@ Here are some ideas to get you started:
 -->
 
 
-💻 I'm a **Junior Full Stack Web Developer** & **Designer** passionate about building functional, scalable, and user-friendly applications.  
-Focused on **JavaScript, React, Next.js, Node.js, TailwindCSS** and currently expanding my skills in **TypeScript**.
-
-I bring over 5 years of professional experience in **project management, teamwork, and problem-solving** from international business environments, now applied to the tech world.
-
-
-## 📫 Let's Connect
-
-<p align="left"> 
-[[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mmgonnar) ](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mm.gonnar@gmail.com) 
-</p>
-
-
   <h1 align="center">Hi 👋, I'm Mariela Gonzalez!</h1>
 <h3 align="center"> 💻 A passionate Junior Full Stack Web Developer & Designer</h3>
 
@@ -39,7 +25,7 @@ I bring over 5 years of professional experience in **project management, teamwor
 
 - 💬 Ask me about **ux/ui**
 
-- 📫 How to reach me [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mm.gonnar@gmail.com) or [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/mmgonnar)  
+- 📫 How to reach me [![Email]([https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mm.gonnar@gmail.com) 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
