@@ -39,8 +39,7 @@ I bring over 5 years of professional experience in **project management, teamwor
 
 - 💬 Ask me about **ux/ui**
 
-- 📫 How to reach me **mm.gonnar@gmail.com**
-- [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mm.gonnar@gmail.com) 
+- 📫 How to reach me [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mm.gonnar@gmail.com) or [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/mmgonnar)  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
