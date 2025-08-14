@@ -1,6 +1,11 @@
 
   <h1 align="center">Hi 👋, I'm Mariela Gonzalez!</h1>
-<h3 align="center"> 💻 A passionate Junior Full Stack Web Developer & Designer</h3>
+<h3 align="center"> 💻 Junior Full Stack Web Developer & Designer 🇲🇽</h3>
+
+<h4 align="center">I'm passionate about building functional, scalable, and user-friendly applications.  
+Focused on **JavaScript, React, Next.js, Node.js**, and currently expanding my skills in **TypeScript** and **TailwindCSS**.
+
+I bring over 5 years of professional experience in **project management, teamwork, and problem-solving** from international business environments, now applied to the tech world. </h4>
 
 - 🔭 I’m currently developing [ClassAid](classaidfrontend.vercel.app)
 
