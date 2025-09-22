@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Mariela Gonzalez!</h1>
-<h3 align="center"> 💻 Junior Full Stack Web Ui Developer & Designer 🇲🇽</h3>
+<h3 align="center"> 💻 Fullstack Web Developer & Desginer | MERN Stack | Next.js | Git | UX/UI | Tailwind CSS 🇲🇽</h3>
 
 
 I am a passionate **Junior Full Stack Web Developer** and **Designe**r with a strong foundation in **JavaScript, React, Next.js, Node.js**, and **MongoDB**. Combining **UX/UI** design expertise with technical know-how, I deliver web experiences that are visually appealing, **responsive**, and performant. Currently expanding my skills in **TypeScript** and **Python**.
