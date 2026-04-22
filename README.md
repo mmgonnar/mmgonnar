@@ -34,12 +34,12 @@ With over 5 years of experience in project management and design, my approach go
 
 ### 🌟 Key Projects
 
-#### <a href="https://classaidfrontend-git-feature-classes-mariela-gonzalezs-projects.vercel.app/" target="_blank" rel="noopener noreferrer">ClassAid ↗</a>
+#### <a href="https://classaidfrontend.vercel.app/" target="_blank" rel="noopener noreferrer">ClassAid ↗</a>
 **EdTech Solution.** A comprehensive platform for educators designed to automate attendance tracking and academic monitoring.
 * *Stack:* Next.js, Tailwind CSS, MongoDB.
 * *Focus:* UX Research & Fullstack Development.
 
-#### <a href="#" target="_blank" rel="noopener noreferrer">Braaiasao ↗</a>
+#### <a href="https://braaiasao.vercel.app/" target="_blank" rel="noopener noreferrer">Braaiasao ↗</a>
 **Digital Presence.** High-performance landing page for a Rodizio-style restaurant, focused on conversion and SEO optimization.
 * *Stack:* React, Framer Motion.
 
