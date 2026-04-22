@@ -5,9 +5,9 @@
 </p>
 
 <p align="center">
-  <a target="_blank" href="https://linkedin.com/in/mmgonnar"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a target="_blank" href="mailto:mm.gonnar@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a target="_blank" href="https://mmgonnar.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=codepen&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/mmgonnar" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:mm.gonnar@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://mmgonnar.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=codepen&logoColor=white" /></a>
 </p>
 
 ---
@@ -34,12 +34,12 @@ With over 5 years of experience in project management and design, my approach go
 
 ### 🌟 Key Projects
 
-#### [ClassAid ↗](https://classaidfrontend.vercel.app/)
+#### <a href="https://classaidfrontend-git-feature-classes-mariela-gonzalezs-projects.vercel.app/" target="_blank" rel="noopener noreferrer">ClassAid ↗</a>
 **EdTech Solution.** A comprehensive platform for educators designed to automate attendance tracking and academic monitoring.
 * *Stack:* Next.js, Tailwind CSS, MongoDB.
 * *Focus:* UX Research & Fullstack Development.
 
-#### [Braaiasao ↗](#)
+#### <a href="#" target="_blank" rel="noopener noreferrer">Braaiasao ↗</a>
 **Digital Presence.** High-performance landing page for a Rodizio-style restaurant, focused on conversion and SEO optimization.
 * *Stack:* React, Framer Motion.
 
