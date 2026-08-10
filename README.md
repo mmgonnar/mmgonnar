@@ -64,7 +64,7 @@ Production-ready Next.js 15 starter published on npm. Scaffolds two variants:
 `Next.js 15` `TypeScript strict` `Tailwind CSS 4` `Supabase Auth + SSR` `Prisma 7` `next-intl` `Zod` `Bun`
 
 > Solved non-trivial integration bugs: Supabase middleware colliding with next-intl headers,
-> dynamic locale imports failing in Next.js 16, and conditional `useId` hook in UI components.
+> dynamic locale imports failing in Next.js 15, and conditional `useId` hook in UI components.
 
 [GitHub](https://github.com/mmgonnar/boilerplate_mmgn) · [npm](https://www.npmjs.com/package/mmgn) · [Demo](https://boilerplate-mmgn.vercel.app/)
 
@@ -102,6 +102,16 @@ Built with Vite for bundle optimization and reusable React components.
 `React 19` `Node.js` `Express` `MongoDB` `JWT` `Vite`
 
 [GitHub](https://github.com/mmgonnar/web_project_api_full) · [Demo](https://18-web-project-api-full-frontend.vercel.app/signin)
+
+---
+
+### 💼 Experience
+
+**Fullstack Developer** · TripleTen · 2024–2025
+Built fullstack apps with TypeScript, React, Next.js, Node.js, Express and MongoDB under Scrum, with systematic PR review on GitHub.
+
+**Freelance Web Designer & Developer** · 2019–Present
+Designed and shipped client sites end to end, from brand direction to responsive, conversion-oriented structure, plus CRM integration and ongoing technical support.
 
 ---
 
